@@ -17,4 +17,3 @@ function clickBtnCalcular(){
     let imc = peso / (altura*altura);
     alert("Tu IMC es: " + Math.round (imc));
 }
-clickBtnCalcular();
